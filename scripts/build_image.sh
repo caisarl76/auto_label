@@ -1,0 +1,1 @@
+docker build -t mnc/minit-autolabeling -f ../Dockerfile ..

@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+# segmentation_models_pytorch
+opencv-python
+pillow
+torchvision
